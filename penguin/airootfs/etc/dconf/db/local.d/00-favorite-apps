@@ -1,0 +1,2 @@
+[org/gnome/shell]
+favorite-apps = ['calamares.desktop', 'firefox.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Console.desktop', 'org.gnome.Settings.desktop']

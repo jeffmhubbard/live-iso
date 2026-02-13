@@ -1,0 +1,3 @@
+## Penguin
+Server = https://repo.penguin.fyi/$repo/$arch
+Server = https://repo.linuxit.us/$repo/$arch

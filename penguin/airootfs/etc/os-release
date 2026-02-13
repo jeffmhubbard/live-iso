@@ -1,0 +1,11 @@
+NAME="PENGUIN"
+PRETTY_NAME="PENGUIN"
+ID=penguin
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://penguin.fyi/"
+DOCUMENTATION_URL="https://penguin.fyi/berks/"
+SUPPORT_URL="https://penguin.fyi/halp/"
+BUG_REPORT_URL="https://penguin.fyi/bergs/"
+PRIVACY_POLICY_URL="https://penguin.fyi/"
+LOGO=penguin-logo
