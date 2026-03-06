@@ -183,5 +183,5 @@ tecla
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 yelp
-calamares-git
-penguin-calamares-config
+os-prober
+penguin-calamares
